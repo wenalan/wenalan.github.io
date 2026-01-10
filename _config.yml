@@ -2,3 +2,5 @@ title: My Blog
 description: Hello GitHub Pages + Jekyll
 theme: minima
 timezone: Asia/Singapore
+paginate: 10
+paginate_path: "/page:num/"
